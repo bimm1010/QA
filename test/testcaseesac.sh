@@ -18,7 +18,9 @@ echo
 echo "$name làm ơn cho biết bạn đang ở quận nào ở $add nhỉ"
 echo
 read district
+echo
 echo "ôhhhh mình cũng đang ở: $district"
+echo
 echo "đồng hương đồng hương !!!"
 echo
 # hỏi đặt bàn chưa
